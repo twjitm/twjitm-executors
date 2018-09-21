@@ -1,0 +1,1 @@
+package com.twjitm.executors.common;/** * 更新执行器枚举类型 * * @author twjitm - [Created on 2018-09-14 11:49] * @company http://www.g2us.com/ * @jdk java version "1.8.0_77" */public enum UpdateExecutorEnum {}
